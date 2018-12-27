@@ -1,0 +1,3 @@
+[submodule "submodule_A"]
+	path = submodule_A
+	url = https://github.com/francisco-codefresh/submodule_A.git
